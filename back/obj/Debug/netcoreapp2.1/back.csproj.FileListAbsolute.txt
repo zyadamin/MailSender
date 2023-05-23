@@ -1,0 +1,14 @@
+C:\Users\zyad\Desktop\MailSender\back\bin\Debug\netcoreapp2.1\back.deps.json
+C:\Users\zyad\Desktop\MailSender\back\bin\Debug\netcoreapp2.1\back.runtimeconfig.json
+C:\Users\zyad\Desktop\MailSender\back\bin\Debug\netcoreapp2.1\back.runtimeconfig.dev.json
+C:\Users\zyad\Desktop\MailSender\back\bin\Debug\netcoreapp2.1\back.dll
+C:\Users\zyad\Desktop\MailSender\back\bin\Debug\netcoreapp2.1\back.pdb
+C:\Users\zyad\Desktop\MailSender\back\obj\Debug\netcoreapp2.1\back.csprojAssemblyReference.cache
+C:\Users\zyad\Desktop\MailSender\back\obj\Debug\netcoreapp2.1\back.csproj.CoreCompileInputs.cache
+C:\Users\zyad\Desktop\MailSender\back\obj\Debug\netcoreapp2.1\back.RazorAssemblyInfo.cache
+C:\Users\zyad\Desktop\MailSender\back\obj\Debug\netcoreapp2.1\back.RazorAssemblyInfo.cs
+C:\Users\zyad\Desktop\MailSender\back\obj\Debug\netcoreapp2.1\back.AssemblyInfoInputs.cache
+C:\Users\zyad\Desktop\MailSender\back\obj\Debug\netcoreapp2.1\back.AssemblyInfo.cs
+C:\Users\zyad\Desktop\MailSender\back\obj\Debug\netcoreapp2.1\back.RazorTargetAssemblyInfo.cache
+C:\Users\zyad\Desktop\MailSender\back\obj\Debug\netcoreapp2.1\back.dll
+C:\Users\zyad\Desktop\MailSender\back\obj\Debug\netcoreapp2.1\back.pdb
